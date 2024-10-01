@@ -29,7 +29,7 @@ In the Menu at the top of the window you can create a PDF about the selected per
 <div align="center">
   <footer>
     <br>
-    <a href="https://www.instagram.com/vinyyboy_seewald/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
+    <a href="https://www.linkedin.com/in/rafael-vin%C3%ADcius-seewald-2341432b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
     <h5>| Made with ❤️ by: Rafael Seewald👋|</h5>
   </footer>
 </div>
